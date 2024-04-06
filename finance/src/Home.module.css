@@ -1,0 +1,33 @@
+.box1{
+width:100vw ;
+height: 990px;
+background-color:  #111111;
+
+}
+.main_navbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.navbox1{
+    display: flex;
+    flex-direction:row ;
+    width: 431px;
+    height: 26px;
+   color: #FFFFFF;
+   justify-content: space-evenly;
+}
+.logobox{
+width: 143px;
+height: 30.3px;
+
+align-items: center;
+justify-content: center;
+}
+.contactbox{
+    width: 172px;
+    height: 47px;
+    color: #FFFFFF;
+}
